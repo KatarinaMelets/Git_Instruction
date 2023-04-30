@@ -1,5 +1,7 @@
 ![Logo](Git-Logo-1788C.png)
 
+![Logo 2](GitHub.png)
+
 
 # Работа с Git и GitHub
 
