@@ -63,4 +63,4 @@ git config --global user.email ваша почта@example.com
 ```
 git checkout -b <название ветки, которую создали>
 ```
- 
+  Эти команды позволят создать новые ветки, вторая команда заменяет две.jjjjjjjjjj
